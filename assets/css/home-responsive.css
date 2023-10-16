@@ -1,0 +1,28 @@
+/* HEADER  */
+
+@media(max-width:780px){
+  .header-up .header-contact {
+    display: none;
+    }
+
+    .header-up .header-hours{
+    display: none;
+    }
+
+    .header-up{
+    display: flex;
+    justify-content: center;
+    }
+
+    .header-menu{
+    display: none;
+    }
+
+    .hamburger-menu-click{
+    display: flex;
+    }
+
+    header{
+    height: 150px;
+    }
+}
